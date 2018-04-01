@@ -4,7 +4,8 @@ Solves the linear system Ax=b as sum of null space of A and particular solution 
 This python program takes input as coefficient matrix A and vector b and then returns the solution of the linear system as sum of null space of A and particular solution of the linear system.
 
 Instructions:
-Run linear_system.py and then enter the inputs as required.  The program would print the solution of the system as the sum of null space of A and particular of the linear system.
+
+Run linear_system.py and then enter the inputs as required.  The program would print the solution of the system as the sum of null space of A and particular solution of the linear system.
 
 Learn more about this algorithm below.
 
